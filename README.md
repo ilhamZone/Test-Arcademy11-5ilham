@@ -11,3 +11,5 @@ Langkah-langkah Penggunaan:<br/>
 6. Buka browser, kemudian buka localhost<br/>
 <br/>
 Screnshoot No 6 <br/>
+
+![list](https://user-images.githubusercontent.com/45902568/61997581-c7e57a00-b0cd-11e9-9339-a3c70bed9007.PNG)

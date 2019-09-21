@@ -1,6 +1,7 @@
 # Test-Arcademy Bootcamp 11-5 ilham
-Untuk Soal no 1 - 5 bisa dijalankan di https://playcode.io/
-<br/>
+Untuk Soal no 1 - 5 berformat.js bisa dijalankan di https://playcode.io/  atau bisa dijalankan di file html <br/>
+dan arahkan tag <script src="no1.js"> atau ke file yang mau dijalankan 
+<br/><br/>
 Untuk No 6 ikuti langkah dibawah<br/>
 Langkah-langkah Penggunaan:<br/>
 1. Install XAMPP<br/>
